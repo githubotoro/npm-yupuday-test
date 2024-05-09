@@ -1,5 +1,11 @@
 # yupuday-test
 
+## 0.4.0
+
+### Minor Changes
+
+- f20a692: test
+
 ## 0.3.0
 
 ### Minor Changes
