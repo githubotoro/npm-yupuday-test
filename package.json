@@ -21,9 +21,10 @@
   "author": "yupuday",
   "license": "MIT",
   "devDependencies": {
+    "@changesets/cli": "^2.27.1",
     "tsup": "^8.0.2",
     "typescript": "^5.4.5",
-    "@changesets/cli": "^2.27.1"
+    "wagmi": "^2.8.3"
   },
   "publishConfig": {
     "access": "public"
