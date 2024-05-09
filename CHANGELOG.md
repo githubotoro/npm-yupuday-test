@@ -1,5 +1,11 @@
 # yupuday-test
 
+## 0.2.0
+
+### Minor Changes
+
+- 5d727dd: New test request
+
 ## 0.1.0
 
 ### Minor Changes
