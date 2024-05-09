@@ -1,5 +1,11 @@
 # yupuday-test
 
+## 0.8.0
+
+### Minor Changes
+
+- 9a49826: test
+
 ## 0.7.0
 
 ### Minor Changes
