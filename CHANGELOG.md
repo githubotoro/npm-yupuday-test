@@ -1,5 +1,11 @@
 # yupuday-test
 
+## 0.9.0
+
+### Minor Changes
+
+- 6261f43: wagmi addition
+
 ## 0.8.0
 
 ### Minor Changes
