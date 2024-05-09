@@ -1,5 +1,11 @@
 # yupuday-test
 
+## 0.5.0
+
+### Minor Changes
+
+- d58bae5: Token added
+
 ## 0.4.0
 
 ### Minor Changes
