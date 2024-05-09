@@ -1,4 +1,5 @@
 name: CI
+
 on:
   push:
     branches:
@@ -19,3 +20,20 @@ jobs:
 
       - run: pnpm install --frozen-lockfile
       - run: pnpm run lint && pnpm run build
+
+  format:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "16"
+
+      - name: Install dependencies
+        run: pnpm install
+
+      - name: Format code files
+        run: npx prettier --write .
