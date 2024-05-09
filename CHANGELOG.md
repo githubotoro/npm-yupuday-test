@@ -1,5 +1,11 @@
 # yupuday-test
 
+## 0.7.0
+
+### Minor Changes
+
+- d682051: update token
+
 ## 0.6.0
 
 ### Minor Changes
