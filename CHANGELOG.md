@@ -1,5 +1,12 @@
 # yupuday-test
 
+## 0.10.0
+
+### Minor Changes
+
+- 9a970af: removed extra
+- 4e15a75: test
+
 ## 0.9.0
 
 ### Minor Changes
